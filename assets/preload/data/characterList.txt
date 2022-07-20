@@ -16,5 +16,6 @@ senpai
 senpai-angry
 spirit
 tankman
+gacha
 pico-speaker
 bf-holding-gf
